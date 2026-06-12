@@ -1,8 +1,8 @@
 pipeline{
 	agent any
 	tools{
-		maven 'Mavne'
-		jdk 'JDK 21'
+		maven 'Maven'
+		jdk 'JDK21'
 	}
 	stages{
 		stage('Clone'){

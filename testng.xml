@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="SauceDemoSuite">
+<test name="SauceDemoTest">
+<classes>
+<class name="Testing_practice.SauceDemoE2E"/>
+</classes>
+</test>
+</suite>

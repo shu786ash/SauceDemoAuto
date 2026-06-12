@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-12T17:12:57 IST" name="Default suite" finished-at="2026-06-12T17:13:20 IST" duration-ms="23347">
+    <groups>
+    </groups>
+    <test started-at="2026-06-12T17:12:57 IST" name="Default test" finished-at="2026-06-12T17:13:20 IST" duration-ms="23347">
+      <class name="Testing_practice.SauceDemoE2E">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Testing_practice.SauceDemoE2E@2362f559]" started-at="2026-06-12T17:12:57 IST" name="setup" finished-at="2026-06-12T17:13:16 IST" duration-ms="19077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:1, instance:Testing_practice.SauceDemoE2E@2362f559]" started-at="2026-06-12T17:13:16 IST" name="login" finished-at="2026-06-12T17:13:17 IST" duration-ms="375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="product_details()[pri:2, instance:Testing_practice.SauceDemoE2E@2362f559]" started-at="2026-06-12T17:13:17 IST" name="product_details" finished-at="2026-06-12T17:13:17 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product_details -->
+        <test-method signature="add_to_cart()[pri:3, instance:Testing_practice.SauceDemoE2E@2362f559]" started-at="2026-06-12T17:13:17 IST" name="add_to_cart" finished-at="2026-06-12T17:13:17 IST" duration-ms="105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_to_cart -->
+        <test-method signature="delete_cart_item()[pri:4, instance:Testing_practice.SauceDemoE2E@2362f559]" started-at="2026-06-12T17:13:17 IST" name="delete_cart_item" finished-at="2026-06-12T17:13:17 IST" duration-ms="72" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_cart_item -->
+        <test-method signature="filter_button()[pri:5, instance:Testing_practice.SauceDemoE2E@2362f559]" started-at="2026-06-12T17:13:17 IST" name="filter_button" finished-at="2026-06-12T17:13:17 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter_button -->
+        <test-method signature="left_menu_button()[pri:6, instance:Testing_practice.SauceDemoE2E@2362f559]" started-at="2026-06-12T17:13:17 IST" name="left_menu_button" finished-at="2026-06-12T17:13:20 IST" duration-ms="3120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- left_menu_button -->
+        <test-method signature="multiple_search()[pri:7, instance:Testing_practice.SauceDemoE2E@2362f559]" started-at="2026-06-12T17:13:20 IST" name="multiple_search" finished-at="2026-06-12T17:13:20 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiple_search -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Testing_practice.SauceDemoE2E@2362f559]" started-at="2026-06-12T17:13:20 IST" name="closeBrowser" finished-at="2026-06-12T17:13:20 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Testing_practice.SauceDemoE2E -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
